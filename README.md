@@ -1,4 +1,4 @@
-### Mercari Price Prediction.
+# Mercari Price Prediction.
 In this Project, we will predict the sale price of a listing based on information a user provides for this listing.
 ## Variable Description 
 1.	train_id or test_id - the id of the listing 
